@@ -2,6 +2,9 @@
 
 The [Proactive Events API](https://developer.amazon.com/docs/smapi/proactive-events-api.html) allows you to send notifications to users of your skill. When your skill successfully sends a notification to a user’s Alexa device, the user hears a chime sound that indicates a notification has arrived. The user can then say, “Alexa, read my notifications” and hear the details.
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 This feature demo shows you how to set up a sample skill called Ping Me, and a script to generate notifications.
 
 ## What You Will Need
